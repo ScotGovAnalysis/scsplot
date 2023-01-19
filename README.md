@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+### `scsplot` is superseded by [`sgplot`](https://github.com/DataScienceScotland/sgplot).
+
 # scsplot
 
 [![GitHub release (latest by

@@ -4,6 +4,8 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+### `scsplot` is superseded by [`sgplot`](https://github.com/DataScienceScotland/sgplot).
+
 # scsplot
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/DataScienceScotland/scsplot)](https://github.com/DataScienceScotland/scsplot/releases/latest)
